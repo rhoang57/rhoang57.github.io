@@ -53,11 +53,12 @@ p {
 }
 
 .lead {
-    font-size: .9em;
+    font-family: 'Bitter', serif;
+    font-size: 1.1rem;
 }
 
 .lead-contact {
-    font-size: .9em;
+    font-size: 1.1rem;
     text-align: center;
 }
 
@@ -128,6 +129,10 @@ p {
     margin-top: 15px;
 }
 
+h6 {
+    font-size: .8rem;
+}
+
 .footer-text {
     color: white;
     text-align: center;
@@ -148,6 +153,10 @@ p {
 }
 
 .email-address {
-    color: blue;
-    font-size: 2rem;
+    font-size: 1rem;
+}
+
+.contact-content {
+    text-align: center;
+    line-height: 2rem;
 }
